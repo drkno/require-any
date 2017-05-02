@@ -1,0 +1,22 @@
+{
+  "name": "require-any",
+  "version": "1.0.0",
+  "description": "Require extensions for installing, uncaching and registering packages",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkno/require-any.git"
+  },
+  "author": "Matthew Knox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrkno/require-any/issues"
+  },
+  "homepage": "https://github.com/mrkno/require-any#readme"
+}
